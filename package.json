@@ -1,15 +1,15 @@
 {
-    "name": "gpp-language",
-    "displayName": "gpp-language",
+    "name": "gpp-lang",
+    "displayName": "gpp-lang",
     "description": "Syntax highlighter for SolidCam .gpp language",
-    "version": "0.2.0",
-    "publisher": "ML",
+    "version": "1.2.0",
+    "publisher": "MV",
     "engines": {
         "vscode": "^1.19.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Milys/gpp-vscode.git"
+        "url": "https://github.com/Mihavin/GPP-Lang"
     },
     "categories": [
         "Languages"
@@ -24,8 +24,8 @@
             {
                 "id": "gpp",
                 "aliases": [
-                    "GPP",
-                    "gpp",
+                    "GPP2",
+                    "gpp2",
                     "SolidCam",
                     "syntax",
                     "highlighter",
